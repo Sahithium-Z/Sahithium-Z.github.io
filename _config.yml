@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Sahith Vasam
+description: Mechanical Engineering Student | University of Washington
 
 baseurl: "" #name of GitHub repository
 #url: "" #custom url to be used instead of GitHub repository
-email: #
+email: sahith.vasam@proton.me
 
 # Pagination
 paginate: 4
@@ -13,16 +13,16 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
-bluesky: "#"
-substack: "#"
+linkedin: "sahith-vasam"
+#stackoverflow: "#"
+github: "Sahithium-Z"
+#researchgate: "#"
+#orcid: "#"
+#quora: "#"
+#instagram: "#"
+#facebook: "#"
+#bluesky: "#"
+#substack: "#"
 
 # Markdown
 highlighter: rouge
