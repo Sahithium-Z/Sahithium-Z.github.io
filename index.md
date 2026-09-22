@@ -7,15 +7,11 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+My name is Sahith and I am a student at University of Washington exploring engineering careers related to robotics and manufacturing. I have worked in many teams and pride myself on communication and collaboration, as well as implementing solutions to complex problems.
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+You can see what I am currently working on in the projects tab.
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate apart form the usual suspects. You can add your user ID in the `_config.yml` file to link your accounts.
+### Contact Me:
 
-PS: If you liked the theme, do star it on GitHub!
-
-### Also, check out:
-
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
+- [Email](mailto:sahith.vasam@proton.me) - sahith.vasam@proton.me
+- [Phone](tel:+14255021380) - +1 (425)-502-1380
