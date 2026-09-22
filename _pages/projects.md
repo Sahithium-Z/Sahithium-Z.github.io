@@ -16,7 +16,6 @@ published: true
   {% if project.redirect %}
   <div class="projectTile" style="background-image: url('/assets/images/profile.jpg');">
           <a href="{{ project.redirect }}" target="_blank">
-		  <p style="background-image: url(');">
           <span>
               <h2>{{ project.title }}</h2>
               <br/>
