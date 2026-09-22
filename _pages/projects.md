@@ -26,7 +26,7 @@ published: true
 
   {% else %}
 
-  <div class="projectTile">
+  <div class="projectTile" style="background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)), url({{ project.image }}); background-size: cover;">
           <a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
           <span>
               <h2>{{ project.title }}</h2>
