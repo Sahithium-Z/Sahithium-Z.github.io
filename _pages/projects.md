@@ -14,7 +14,7 @@ published: true
   {% for project in site.projects %}
 
   {% if project.redirect %}
-  <div class="projectTile" style="background-image: url('/assets/images/profile.jpg');">
+  <div class="projectTile" style="background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)), url('/assets/images/profile.jpg');">
           <a href="{{ project.redirect }}" target="_blank">
           <span>
               <h2>{{ project.title }}</h2>
