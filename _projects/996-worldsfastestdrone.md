@@ -1,6 +1,6 @@
 ---
 layout: post
-title: World's Fastest Drone
+title: World's Fastest Drone - Project Lead
 description: Functioning FPV Drone with max speed of 400 kmph
 image: "/assets/images/WorldsFastestDroneOverview.png"
 ---
