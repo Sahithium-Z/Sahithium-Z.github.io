@@ -25,3 +25,13 @@ As part of our considerations we had to make sure the frame had mounts for the E
 ![Cooling System](/assets/images/worldsfastestdrone/coolingsystem.png "Cooling System")
 
 This is a water block, CNC machined out of aluminum which would have a copper plate on top to contact the ESC. There would be a small fan to circulate the water in the hole on the side of the water block. Between each flight we would refill the water block up with cold water to make sure the ESC was at an optimal temperature while flying.
+
+
+![Shell](/assets/images/worldsfastestdrone/shell.png "Shell")
+
+Finally our shell was designed to house the frame and the cooling system and still be as aerodynamic as possible. We manufactured the arms of the shell with channels through them for wires to attach to the motors which would screw on to the ends of the arms. The shell went through a few iterations through CFD testing and changing of priorities before we landed on this design.
+
+
+![Physical Drone](/assets/images/worldsfastestdrone/physicaldrone.jpg "Physical Drone")
+
+We 3D printed the frame of the drone using a carbon fiber infused filament for structural integrity, while the shell was made out of PLA.
